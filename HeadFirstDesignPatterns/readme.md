@@ -24,3 +24,5 @@ Each pattern/chapter includes:
 
 - `_01_strategy` - Strategy Pattern
 - `_02_observer` - Observer Pattern
+- `_03_decorator` - Decorator Pattern
+- `_04_factory` - Factory Pattern
